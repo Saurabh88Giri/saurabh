@@ -372,16 +372,143 @@ These are the companies closest to ~20 employees. This is the ICP bullseye: big 
 - **Zeni at $549-$799/mo is a no-brainer.** It's less than they spend on Slack.
 
 ## RECOMMENDED CALL ORDER (Monday morning)
-1. Harper (triple signal, $47M, Goldman founders who get it)
-2. Trayd (triple signal, construction complexity, YC-backed)
-3. Glimpse (irony angle is gold, a16z-backed, $52M total)
-4. Thesis Care (healthcare complexity, $60M, Cedar pedigree)
-5. Amigo AI (Series B imminent, tripling headcount, urgency)
-6. Rebar (20 people, doubled ARR, usage-based billing)
-7. Moda (killer founding team, GC-backed, early enough to lock in)
-8. Sequen (14-person all-technical team, seven-figure deals)
-9. Ease Health (verify CFO status first, then adjust angle)
-10. Mega (strong fit but less info on team size/structure)
+1. **Players' Lounge** (HIRING SIGNAL: actively posting $100-140K controller role. Call FIRST.)
+2. **Canix** (HIRING SIGNAL: actively posting $60K bookkeeper role. Call SECOND.)
+3. Harper (triple signal, $47M, Goldman founders who get it)
+4. Trayd (triple signal, construction complexity, YC-backed)
+5. Glimpse (irony angle is gold, a16z-backed, $52M total)
+6. Thesis Care (healthcare complexity, $60M, Cedar pedigree)
+7. Amigo AI (Series B imminent, tripling headcount, urgency)
+8. Rebar (20 people, doubled ARR, usage-based billing)
+9. Moda (killer founding team, GC-backed, early enough to lock in)
+10. Sequen (14-person all-technical team, seven-figure deals)
+11. Ease Health (verify CFO status first, then adjust angle)
+12. Mega (strong fit but less info on team size/structure)
+
+---
+
+## BONUS LEADS: ACTIVE HIRING SIGNAL (Angle 2 — Highest Conversion)
+
+These companies are ACTIVELY hiring for finance roles RIGHT NOW. This is the hottest signal in the pipeline. They've already admitted they need help. They're about to spend $60-140K/year on a hire. Zeni does it for $549/mo.
+
+---
+
+### LEAD #11: PLAYERS' LOUNGE
+**Target:** Austin Woolridge, Co-founder & CEO
+**LinkedIn:** (search: Austin Woolridge Players Lounge)
+**Company:** Players' Lounge (playerslounge.co)
+**What they do:** Platform where gamers bet on themselves playing AAA video games and win money. Real-money competitive gaming.
+**HQ:** Brooklyn, New York
+**Employees:** 13-53 (YC says 13, PitchBook says 53; likely ~25-35 range)
+**Funding:** $15-31M raised (varies by source). YC W18. Investors include Samsung, Drake, Strauss Zelnick (Take-Two CEO), Griffin Gaming Partners.
+**Revenue signal:** $2.3M revenue in 2025 with 21-person team.
+**Finance team:** ACTIVELY HIRING A CONTROLLER. $100K-$140K salary + 0.01-0.25% equity. The role reports directly to CEO.
+**Complexity signals:** Real-money gaming = regulatory compliance across states. Payment processing complexity (deposits, withdrawals, winnings). Multi-state gaming licenses. High-volume transaction reconciliation.
+**Accounting stack:** Unknown, likely QuickBooks.
+
+#### HIRING SIGNAL DETAILS:
+**Job posting:** Controller at Players' Lounge
+**Compensation:** $100K-$140K + equity
+**Key responsibilities:** Own monthly close, manage AP/AR, reconcile high-volume payment activity, prepare financial reporting packages.
+**This is a "hands-on execution role with direct visibility to the CEO."**
+
+### Angle: Hiring Signal (Angle 2) — "Before you spend $140K/year, give us 10 minutes."
+
+### Email Draft
+
+**Subject:** that controller role
+
+Austin,
+
+Saw you're hiring a controller at Players' Lounge. $100-140K plus equity to own the monthly close, reconcile high-volume payment activity, and prep reporting packages.
+
+That's a big hire for a 25-person team. And with real-money gaming across multiple states, the regulatory and transaction complexity only goes up from here.
+
+Before you commit to that spend, worth seeing what Zeni can do. We handle daily-close bookkeeping, tax, and CFO reporting for companies with exactly your kind of transaction volume. Fraction of the cost, no recruiting, no ramp time.
+
+22 minutes to compare?
+
+Saurabh
+
+---
+
+### LEAD #12: CANIX
+**Target:** Stacey Hronowski, Co-founder & CEO
+**LinkedIn:** (search: Stacey Hronowski Canix)
+**Company:** Canix (canix.com)
+**What they do:** Seed-to-sale and ERP software platform for licensed cannabis businesses. Covers cultivation management, inventory tracking, compliance, sales, and analytics.
+**HQ:** San Francisco, CA
+**Employees:** 22-28 (YC says 22, PitchBook says 28, Latka says 25)
+**Funding:** $14M total. YC S19. TechCrunch Disrupt 2020 winner.
+**Revenue signal:** $5.6M revenue (2024), up from $3.8M (2023). 1,100 customers. $500M+ in orders processed. Just acquired Trym (Jan 2026).
+**Finance team:** ACTIVELY HIRING A BOOKKEEPER. $60K/year. The role requires "deep expertise in QuickBooks Online."
+**Complexity signals:** Cannabis industry = extreme regulatory compliance. Multi-state + international (6 countries). Recent acquisition (Trym) = entity consolidation. Subscription + transaction revenue. 1,100 customers across regulated markets.
+**Accounting stack:** QuickBooks Online (confirmed via job posting).
+
+#### HIRING SIGNAL DETAILS:
+**Job posting:** Bookkeeper at Canix
+**Compensation:** $60K/year, full-time, remote US
+**Key requirement:** "Deep expertise in QuickBooks Online" and "proactive approach to building efficient systems, including automations that streamline workflows."
+
+### Angle: Hiring Signal (Angle 2) — "Before you spend $60K/year, give us 10 minutes."
+
+### Email Draft
+
+**Subject:** that bookkeeper role (and quickbooks)
+
+Stacey,
+
+I saw the bookkeeper posting. $60K for someone with deep QBO expertise to build automations and streamline workflows. Makes sense at $5.6M in revenue with 1,100 customers across 6 countries.
+
+But here's the thing: you just acquired Trym, you're in the most regulated industry in the country, and you're still on QuickBooks. A single bookkeeper is going to be underwater by Q3.
+
+Zeni does daily-close bookkeeping, tax, and CFO-level reporting. We replace the bookkeeper hire AND the QBO headaches. And we handle multi-entity consolidation, which matters now that Trym is part of the picture.
+
+22 minutes before you fill that role?
+
+Saurabh
+
+---
+
+## WHERE FOUNDERS EXPRESS NEED (Signal Hunting Playbook)
+
+Web search doesn't surface individual founder posts well. Here's where to find them in real time:
+
+### Best Channels for "Hand-Raiser" Signals:
+
+**1. LinkedIn (Highest Quality)**
+- Search: `"looking for a bookkeeper" OR "need a controller" OR "closing books" OR "bookkeeping nightmare"` filtered to Posts
+- Follow hashtags: #startupfinance #bookkeeping #founderstories #startuplife
+- Monitor posts from founders at recently funded companies (check their profiles weekly)
+
+**2. Reddit (Highest Volume)**
+- r/startups — founders venting about operational pain
+- r/smallbusiness — small business owners asking for bookkeeper recs
+- r/Entrepreneur — "how do you handle your books?" threads
+- r/bookkeeping — business owners posting "my books are a mess, help"
+- Search: "recommend bookkeeper" OR "need help with accounting" OR "quickbooks alternative"
+
+**3. Twitter/X (Fastest Signal)**
+- Search: `"need a bookkeeper" OR "hate quickbooks" OR "books are a mess" OR "closing the books" from:* -is:retweet`
+- Follow founders from your lead list and monitor their complaints
+- Monitor replies to Pilot, Bench, Zeni competitor accounts
+
+**4. YC Work at a Startup (Direct Hiring Signal)**
+- URL: workatastartup.com
+- Filter by: Controller, Bookkeeper, Head of Finance, Accountant
+- Any company posting these roles is a warm lead for Zeni
+
+**5. Wellfound/AngelList (Direct Hiring Signal)**
+- URL: wellfound.com
+- Filter by: Finance roles, Seed-Series B, 10-50 employees
+- Same logic: if they're hiring for it, they need it
+
+**6. Google Alerts (Passive Monitoring)**
+- Set up alerts for: "startup hiring controller", "startup hiring bookkeeper", "outgrowing quickbooks"
+- Delivers leads to your inbox daily
+
+### The Rule:
+**If a company is posting a job for a controller ($100-180K) or bookkeeper ($50-80K), they are the single hottest lead in your pipeline. They've already admitted the need. You just need to show them a better answer than a hire.**
 
 ---
 
