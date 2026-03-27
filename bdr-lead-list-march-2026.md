@@ -9,7 +9,7 @@
 **Company:** Trayd (buildtrayd.com)
 **What they do:** All-in-one construction payroll, HR, and compliance platform for specialty trade contractors.
 **HQ:** New York City
-**Employees:** ~20-30 (scaling fast post-raise)
+**Employees:** 24 (confirmed, grew from 6 to 24; actively hiring 5+ roles)
 **Funding:** $10M Series A (March 2026) led by White Star Capital. $15M total. YC-backed.
 **Revenue signal:** 600% YoY revenue growth. Moves tens of millions in payroll dollars weekly.
 **Finance team:** NO FINANCE TEAM FOUND.
@@ -43,7 +43,7 @@ Saurabh
 **Company:** Moda (moda.app)
 **What they do:** AI design agent that learns your brand and creates professional-grade visual assets (presentations, social posts, reports).
 **HQ:** SoHo, New York City
-**Employees:** ~10-15 (early stage, hiring)
+**Employees:** ~8-12 (seed stage, 3 co-founders + early hires; hiring in SoHo office)
 **Funding:** $7.5M Seed (March 2026) led by General Catalyst. Backed by Pear VC, WndrCo (Jeffrey Katzenberg), and founders from Dropbox, Stripe, Segment.
 **Revenue signal:** 3,000+ users in beta including Google, McKinsey, Wix, Samsara.
 **Finance team:** NO FINANCE TEAM FOUND. Leadership is CEO (Anvisha), COO (Ravi Parikh, ex-Heap), CTO (John Holliman).
@@ -76,7 +76,7 @@ Saurabh
 **Company:** Glimpse (tryglimpse.com)
 **What they do:** AI platform that automates deduction management, revenue recovery, and cash application for CPG brands.
 **HQ:** New York City
-**Employees:** ~30-50 (14x YoY growth)
+**Employees:** 27-44 (YC profile says 27, PitchBook says 44; hiring 11 roles)
 **Funding:** $35M Series A (March 2026) led by a16z. $52M total. YC-backed.
 **Revenue signal:** 14x YoY growth. 200+ brand customers. 91% dispute win rate. Seven-figure contracts.
 **Finance team:** NO FINANCE TEAM FOUND. Known leadership: CEO (Akash), CTO (Kushal Negi), CPO (Anuj Mehta).
@@ -111,7 +111,7 @@ Saurabh
 **Company:** Rebar (withrebar.ai)
 **What they do:** AI platform that analyzes construction blueprints to generate HVAC equipment quotes 60-70% faster.
 **HQ:** New York City
-**Employees:** ~20
+**Employees:** 20 (confirmed; scaling engineering, client success, ops, sales)
 **Funding:** $14M Series A (March 2026) led by Prudence. Also Founder Collective, Villain Capital.
 **Revenue signal:** Doubled ARR in first 6 weeks of 2026. 40 clients. Usage-based subscription model. 2-3x win rate improvement for clients.
 **Finance team:** NO FINANCE TEAM FOUND. Leadership: CEO (Evan Brown), CTO (Andrew Schwartz).
@@ -144,7 +144,7 @@ Saurabh
 **Company:** Mega (gomega.ai)
 **What they do:** AI-powered growth engine replacing marketing agencies for SMBs ($500K-$20M revenue). Handles SEO, ads, website management autonomously.
 **HQ:** Unknown (likely NYC or SF)
-**Employees:** ~15-30
+**Employees:** ~15-20 (estimated; no public headcount data)
 **Funding:** $11.5M Series A (March 2026) led by Goodwater Capital. a16z, SignalFire, Atreides also in.
 **Revenue signal:** 100x organic traffic growth during internal experiments. 80% reduction in paid CAC.
 **Finance team:** NO FINANCE TEAM FOUND. Known: Robbie Schneidman + Lucas Pellan (co-founders).
@@ -177,7 +177,7 @@ Saurabh
 **Company:** Harper (harperinsure.com)
 **What they do:** AI-native commercial insurance brokerage matching SMBs with 160+ insurance carriers for workers' comp, general liability, professional liability.
 **HQ:** New York City
-**Employees:** ~30-50
+**Employees:** 25-32 (YC says 25, PitchBook says 32; hiring 14 roles)
 **Funding:** $47M combined Seed + Series A (Feb 2026) led by Emergence Capital. YC W25 batch. Largest Series A by a Black founder (publicly disclosed).
 **Revenue signal:** 5,000-7,000 customers. Handling 1,000+ deals/month vs. 20-30 at traditional brokerages. Targeting 100K customers by year-end.
 **Finance team:** NO FINANCE TEAM FOUND. Known: CEO (Dakotah Rice, ex-Goldman/Carlyle/Coatue), CTO (Tushar Nair, ex-Goldman).
@@ -210,7 +210,7 @@ Saurabh
 **Company:** Sequen (sequen.ai)
 **What they do:** AI personalization platform using Large Event Models for real-time ranking. Processes 20B+ monthly requests. TikTok-style recommendations for consumer companies.
 **HQ:** New York City
-**Employees:** ~14
+**Employees:** ~14-20 (TechCrunch reported 14-person team; likely grown post-raise)
 **Funding:** $16M Series A (March 2026) co-led by White Star Capital and Threshold Ventures. $22M total.
 **Revenue signal:** First 5 customers signed seven-figure contracts. 7% revenue lift for major furniture retailer. 20% net revenue increase for Fetch Rewards in 11 days.
 **Finance team:** NO FINANCE TEAM FOUND. 14-person team includes alumni from DeepMind, Meta, Anthropic. All technical.
@@ -243,7 +243,7 @@ Saurabh
 **Company:** Ease Health (tryeasehealth.com)
 **What they do:** AI-native operating system unifying CRM, EHR, and RCM for behavioral health providers. Replaces 6-10 separate systems.
 **HQ:** New York City
-**Employees:** ~20-40 (just emerged from stealth)
+**Employees:** ~15-25 (just emerged from stealth March 2026; no public headcount)
 **Funding:** $41M Series A (March 2026) led by a16z. Also Abstract Ventures, BoxGroup.
 **Revenue signal:** Just launched publicly. 60-70% faster documentation for providers.
 **Finance team:** UNCERTAIN. Zach mentioned "sitting down with our CFO" in one interview, but no named CFO found publicly. May or may not have one.
@@ -276,7 +276,7 @@ Saurabh
 **Company:** Thesis Care (thesis.care), formerly Trovo Health
 **What they do:** AI agents backed by expert clinicians for care management, care delivery, and clinical operations at healthcare organizations.
 **HQ:** New York City
-**Employees:** ~30-50
+**Employees:** ~25-40 (no confirmed public number; founded 2024, $60M total raised)
 **Funding:** $45M Series A (March 2026) led by Oak HC/FT. $60M total. Also CRV, Black Opal Ventures.
 **Revenue signal:** Partners include US Heart & Vascular, Essen Health Care, Springfield Clinic, Unio Health Partners, Allied Digestive Health. Expanding to health systems and payers.
 **Finance team:** NO FINANCE TEAM FOUND. CEO Niren Gandra (ex-Cedar, Chief Commercial Officer). Co-founder Aditya Pandyaram.
@@ -309,7 +309,7 @@ Saurabh
 **Company:** Amigo AI (amigo.ai)
 **What they do:** Platform for building, training, and deploying patient-facing clinical AI agents. "Digital residency" model trains agents across millions of simulated patient scenarios.
 **HQ:** New York City
-**Employees:** ~15-20 (planning to 3x team by end of 2026)
+**Employees:** 32 (PitchBook confirmed; planning to 3x to ~96 by end of 2026)
 **Funding:** $11M Series A (March 2026) led by Madrona. $17M total. Also General Catalyst, Optum Ventures.
 **Revenue signal:** 3 million+ patient encounters in last 6 months with zero safety incidents. Clients include Eucalyptus, Diverge Health, The Care Clinic. In talks for $30-50M Series B.
 **Finance team:** NO FINANCE TEAM FOUND. Known: CEO (Ali Khokhar, ex-Google, ex-Upwork), CTO (John Xing), Chief Medical Advisor (Dr. Jay Shah, Stanford), Chief of Staff (Jeff Yuen).
@@ -336,20 +336,40 @@ Saurabh
 
 ---
 
-## SUMMARY TABLE
+## SUMMARY TABLE (WITH HEADCOUNTS)
 
-| # | Company | CEO | Funding | Angle | Priority |
-|---|---------|-----|---------|-------|----------|
-| 1 | Trayd | Anna Berger | $10M A | No Finance + Post-Funding + Complexity | HIGH |
-| 2 | Moda | Anvisha Pai | $7.5M Seed | No Finance + Post-Funding | HIGH |
-| 3 | Glimpse | Akash Raju | $35M A | No Finance + Post-Funding + Complexity | HIGH |
-| 4 | Rebar | Evan Brown | $14M A | No Finance + Post-Funding | HIGH |
-| 5 | Mega | Robbie Schneidman | $11.5M A | No Finance + Post-Funding | MEDIUM |
-| 6 | Harper | Dakotah Rice | $47M A | No Finance + Post-Funding + Complexity | HIGH |
-| 7 | Sequen | Zoe Weil | $16M A | No Finance + Post-Funding | MEDIUM |
-| 8 | Ease Health | Zach Cohen | $41M A | Post-Funding + Complexity | MEDIUM (may have CFO) |
-| 9 | Thesis Care | Niren Gandra | $45M A | No Finance + Post-Funding + Complexity | HIGH |
-| 10 | Amigo AI | Ali Khokhar | $11M A | No Finance + Post-Funding + Tripling Team | HIGH |
+| # | Company | CEO | Employees | Funding | Angle | Priority |
+|---|---------|-----|-----------|---------|-------|----------|
+| 1 | Trayd | Anna Berger | **24** | $10M A | No Finance + Post-Funding + Complexity | HIGH |
+| 2 | Moda | Anvisha Pai | **~8-12** | $7.5M Seed | No Finance + Post-Funding | HIGH |
+| 3 | Glimpse | Akash Raju | **27-44** | $35M A | No Finance + Post-Funding + Complexity | HIGH |
+| 4 | Rebar | Evan Brown | **20** | $14M A | No Finance + Post-Funding | HIGH |
+| 5 | Mega | Robbie Schneidman | **~15-20** | $11.5M A | No Finance + Post-Funding | MEDIUM |
+| 6 | Harper | Dakotah Rice | **25-32** | $47M A | No Finance + Post-Funding + Complexity | HIGH |
+| 7 | Sequen | Zoe Weil | **~14-20** | $16M A | No Finance + Post-Funding | MEDIUM |
+| 8 | Ease Health | Zach Cohen | **~15-25** | $41M A | Post-Funding + Complexity | MEDIUM |
+| 9 | Thesis Care | Niren Gandra | **~25-40** | $45M A | No Finance + Post-Funding + Complexity | HIGH |
+| 10 | Amigo AI | Ali Khokhar | **32** | $11M A | No Finance + Post-Funding + Tripling Team | HIGH |
+
+---
+
+## ~20 EMPLOYEE SWEET SPOT (Your Best-Fit Leads)
+
+These are the companies closest to ~20 employees. This is the ICP bullseye: big enough to have real financial complexity, small enough that they haven't hired a finance person yet. The pain is sharpest here.
+
+| # | Company | CEO | Employees | Funding | Why They're Perfect |
+|---|---------|-----|-----------|---------|---------------------|
+| 1 | **Rebar** | Evan Brown | **20** | $14M A | Exactly 20 people. Usage-based billing (complex to account for). Doubled ARR in 6 weeks. Expanding into plumbing + electrical. Zero finance team. |
+| 2 | **Trayd** | Anna Berger | **24** | $10M A | Just above 20. Multi-state construction payroll with union compliance. 600% YoY growth. Zero finance team. YC-backed. |
+| 3 | **Mega** | Robbie Schneidman | **~15-20** | $11.5M A | Estimated right at 20. Multiple product lines (SEO, ads, websites). a16z + Goodwater on cap table. Zero finance team. |
+| 4 | **Sequen** | Zoe Weil | **~14-20** | $16M A | Small all-technical team. Seven-figure enterprise contracts. Complex rev recognition (ASC 606). Zero finance team. |
+| 5 | **Ease Health** | Zach Cohen | **~15-25** | $41M A | Just emerged from stealth. Healthcare SaaS billing. a16z-backed. CFO status uncertain (could be a goldmine or already covered). |
+
+### Why ~20 employees is the kill zone for Zeni:
+- **They feel the pain daily.** The founder or an ops person is closing books at midnight.
+- **They can't justify a $150K controller hire.** The math doesn't work at 20 people.
+- **But the investors demand real financials.** Board-ready reporting, clean books, audit-ready numbers.
+- **Zeni at $549-$799/mo is a no-brainer.** It's less than they spend on Slack.
 
 ## RECOMMENDED CALL ORDER (Monday morning)
 1. Harper (triple signal, $47M, Goldman founders who get it)
